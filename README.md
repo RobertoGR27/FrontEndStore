@@ -3,7 +3,7 @@
 _Plantilla de un sitio web para venta de playeras realizado con HTML y CSS utilizando la metodología BEM_
 
 ## Vista Previa :desktop_computer:
-_[Tienda de playeras](https://robertogr27.github.io/BlogdeCafe/)_
+_[Tienda de playeras](https://robertogr27.github.io/FrontEndStore/)_
 
 ## Comenzando 🚀
 
